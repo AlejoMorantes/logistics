@@ -1,0 +1,9 @@
+hub_id,name,region,lat,lon,fixed_cost_week,capacity_boxes
+H1,Madrid cold hub,Sabana de Bogotá,4.735,-74.255,5200,4500
+H2,Facatativá cold hub,Sabana de Bogotá,4.81,-74.345,4300,3500
+H3,Funza – El Dorado cold hub,Sabana de Bogotá,4.715,-74.2,6400,5000
+H4,Tocancipá cold hub,Sabana de Bogotá,4.965,-73.915,4800,4000
+H5,Chía – Cajicá cold hub,Sabana de Bogotá,4.89,-74.04,5000,3500
+H6,Rionegro – JMC cold hub,"Rionegro, Antioquia",6.165,-75.4,5000,4000
+H7,La Ceja cold hub,"Rionegro, Antioquia",6.03,-75.43,4000,3000
+H8,El Carmen de Viboral cold hub,"Rionegro, Antioquia",6.085,-75.335,3500,2500

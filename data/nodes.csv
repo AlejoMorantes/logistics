@@ -1,0 +1,36 @@
+node_id,name,short,type,kind,country,market,lat,lon
+BOG,El Dorado Airport (Bogotá),Bogotá airport,airport,airport,Colombia,,4.7016,-74.1469
+MDE,José María Córdova Airport (Rionegro),Rionegro airport,airport,airport,Colombia,,6.1645,-75.4231
+CTG,Port of Cartagena,Cartagena port,port,seaport,Colombia,,10.4,-75.53
+SMR,Port of Santa Marta,Santa Marta port,port,seaport,Colombia,,11.25,-74.21
+AMS,Amsterdam Schiphol Airport,Schiphol,arrival_airport,airport,Netherlands,,52.3105,4.7683
+CDG,Paris Charles de Gaulle Airport,Paris-CDG,arrival_airport,airport,France,,49.0097,2.5479
+RTM,Port of Rotterdam (Maasvlakte),Rotterdam port,arrival_port,seaport,Netherlands,,51.95,4.05
+LEH,Port of Le Havre,Le Havre port,arrival_port,seaport,France,,49.48,0.11
+FOS,Port of Marseille-Fos,Fos port,arrival_port,seaport,France,,43.42,4.88
+GOA,Port of Genoa,Genoa port,arrival_port,seaport,Italy,,44.4,8.9
+ARN,Stockholm Arlanda Airport,Arlanda,transfer,airport,Sweden,,59.6519,17.9186
+HEL,Helsinki-Vantaa Airport,Helsinki airport,transfer,airport,Finland,,60.3172,24.9633
+ZRH,Zurich Airport,Zurich airport,transfer,airport,Switzerland,,47.4582,8.5555
+GOT,Port of Gothenburg,Gothenburg port,transfer,seaport,Sweden,,57.69,11.83
+VUO,Port of Helsinki (Vuosaari),Vuosaari port,transfer,seaport,Finland,,60.21,25.19
+TRV,Travemünde ferry terminal,Travemünde,transfer,ferry_port,Germany,,53.96,10.87
+ALP,Alphen aan den Rijn barge terminal,Alphen barge terminal,transfer,river_port,Netherlands,,52.13,4.66
+BSL,Basel Rhine ports,Basel Rhine port,transfer,river_port,Switzerland,,47.59,7.59
+GEN,Paris-Gennevilliers river port,Gennevilliers port,transfer,river_port,France,,48.93,2.28
+LYP,Lyon Édouard Herriot river port,Lyon river port,transfer,river_port,France,,45.73,4.82
+AAL,Aalsmeer flower auction,Aalsmeer,destination,destination,Netherlands,NL,52.258,4.79
+NAA,Naaldwijk flower auction,Naaldwijk,destination,destination,Netherlands,NL,51.993,4.208
+RIJ,Rijnsburg flower auction,Rijnsburg,destination,destination,Netherlands,NL,52.199,4.447
+RUN,Rungis wholesale market (Paris),Paris-Rungis,destination,destination,France,FR,48.759,2.352
+LYS,Lyon-Corbas wholesale market,Lyon,destination,destination,France,FR,45.666,4.906
+MRS,Marseille wholesale market,Marseille,destination,destination,France,FR,43.331,5.383
+ZUR,"Wholesale customer, Zurich",Zurich,destination,destination,Switzerland,CH,47.4,8.48
+BAS,"Wholesale customer, Basel",Basel,destination,destination,Switzerland,CH,47.56,7.6
+GVA,"Wholesale customer, Geneva",Geneva,destination,destination,Switzerland,CH,46.2,6.14
+STO,"Wholesale customer, Stockholm",Stockholm,destination,destination,Sweden,SE,59.3,18.05
+GBG,"Wholesale customer, Gothenburg",Gothenburg,destination,destination,Sweden,SE,57.71,11.97
+MMA,"Wholesale customer, Malmö",Malmö,destination,destination,Sweden,SE,55.6,13.0
+HKI,"Wholesale customer, Helsinki",Helsinki,destination,destination,Finland,FI,60.29,25.04
+TMP,"Wholesale customer, Tampere",Tampere,destination,destination,Finland,FI,61.5,23.76
+TKU,"Wholesale customer, Turku",Turku,destination,destination,Finland,FI,60.45,22.27

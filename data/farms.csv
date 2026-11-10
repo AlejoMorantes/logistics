@@ -1,0 +1,41 @@
+farm_id,name,region,municipality,lat,lon,stems_rose,boxes_rose,stems_carnation,boxes_carnation,stems_chrysanthemum,boxes_chrysanthemum
+F01,Finca La Esperanza,Sabana de Bogotá,Madrid,4.73596,-74.27752,86400,288,113400,227,0,0
+F02,Finca San Rafael,Sabana de Bogotá,Madrid,4.72789,-74.26422,71700,239,0,0,0,0
+F03,Finca El Jardín,Sabana de Bogotá,Madrid,4.74665,-74.25792,80000,267,103800,208,0,0
+F04,Finca Santa Mónica,Sabana de Bogotá,Madrid,4.7296,-74.27285,0,0,0,0,0,0
+F05,Finca Las Margaritas,Sabana de Bogotá,Facatativá,4.80842,-74.34708,61900,206,98400,197,0,0
+F06,Finca El Rocío,Sabana de Bogotá,Facatativá,4.80634,-74.36458,63500,212,80900,162,0,0
+F07,Finca La Primavera,Sabana de Bogotá,Facatativá,4.82146,-74.34434,86500,288,104100,208,0,0
+F08,Finca Buenavista,Sabana de Bogotá,Funza,4.71752,-74.20916,61300,204,50500,101,0,0
+F09,Finca San Isidro,Sabana de Bogotá,Funza,4.72421,-74.23094,75700,252,59100,118,16000,67
+F10,Finca Los Arrayanes,Sabana de Bogotá,Bojacá,4.74559,-74.36388,83600,279,86300,173,0,0
+F11,Finca La Pradera,Sabana de Bogotá,El Rosal,4.84847,-74.26901,73400,245,0,0,0,0
+F12,Finca El Encanto,Sabana de Bogotá,El Rosal,4.84105,-74.25654,84800,283,101000,202,0,0
+F13,Finca Santa Bárbara,Sabana de Bogotá,Subachoque,4.92398,-74.16706,56000,187,97000,194,0,0
+F14,Finca Las Palmas,Sabana de Bogotá,Tenjo,4.8659,-74.14384,86300,288,74800,150,0,0
+F15,Finca La Aurora,Sabana de Bogotá,Tenjo,4.87096,-74.16594,60300,201,0,0,0,0
+F16,Finca El Paraíso,Sabana de Bogotá,Tabio,4.90423,-74.10292,0,0,0,0,0,0
+F17,Finca San Marino,Sabana de Bogotá,Chía,4.84586,-74.06167,95600,319,63200,126,0,0
+F18,Finca La Gaitana,Sabana de Bogotá,Chía,4.86109,-74.06672,89100,297,78100,156,0,0
+F19,Finca Los Sauces,Sabana de Bogotá,Cajicá,4.93882,-74.03111,73700,246,82100,164,0,0
+F20,Finca El Trébol,Sabana de Bogotá,Cajicá,4.92264,-74.00898,62700,209,0,0,0,0
+F21,Finca Santa Helena,Sabana de Bogotá,Zipaquirá,5.0041,-73.99574,98100,327,100900,202,13800,58
+F22,Finca La Conchita,Sabana de Bogotá,Tocancipá,5.00288,-73.90761,76300,254,71600,143,0,0
+F23,Finca El Cerezo,Sabana de Bogotá,Tocancipá,4.95704,-73.91483,95300,318,86000,172,16100,67
+F24,Finca Monteverde,Sabana de Bogotá,Tocancipá,4.9643,-73.89002,59800,199,0,0,0,0
+F25,Finca La Floresta,Sabana de Bogotá,Gachancipá,4.97845,-73.88243,92300,308,0,0,0,0
+F26,Finca San Valentín,Sabana de Bogotá,Sopó,4.92011,-73.935,66500,222,0,0,8500,35
+F27,Finca El Redil,Sabana de Bogotá,Nemocón,5.05207,-73.89461,88700,296,0,0,0,0
+F28,Finca Altamira,Sabana de Bogotá,Suesca,5.10672,-73.78102,84800,283,56100,112,0,0
+F29,Finca La Colina,"Rionegro, Antioquia",Rionegro,6.15738,-75.38992,17500,58,0,0,51100,213
+F30,Finca El Capiro,"Rionegro, Antioquia",Rionegro,6.15002,-75.355,0,0,52400,105,76100,317
+F31,Finca Guadalupe,"Rionegro, Antioquia",Rionegro,6.14987,-75.37407,15300,51,45300,91,72100,300
+F32,Finca Las Acacias,"Rionegro, Antioquia",La Ceja,6.00435,-75.43363,0,0,0,0,53000,221
+F33,Finca La Montaña,"Rionegro, Antioquia",La Ceja,6.02666,-75.42109,0,0,45000,90,82100,342
+F34,Finca San Nicolás,"Rionegro, Antioquia",La Ceja,6.02471,-75.43726,0,0,0,0,83200,347
+F35,Finca El Tambo,"Rionegro, Antioquia",El Carmen de Viboral,6.08099,-75.34405,26100,87,0,0,49200,205
+F36,Finca Llanogrande,"Rionegro, Antioquia",El Carmen de Viboral,6.08418,-75.33203,0,0,0,0,82300,343
+F37,Finca La Selva,"Rionegro, Antioquia",La Unión,5.96926,-75.38002,0,0,44400,89,78200,326
+F38,Finca Vista Hermosa,"Rionegro, Antioquia",Marinilla,6.1655,-75.36391,0,0,0,0,79700,332
+F39,Finca El Vergel,"Rionegro, Antioquia",Guarne,6.30874,-75.44988,0,0,0,0,71100,296
+F40,Finca Santa Elena,"Rionegro, Antioquia",El Retiro,6.03515,-75.52207,19700,66,0,0,77700,324
